@@ -2,3 +2,4 @@
 
 - st-bold-is-not-bright
 - st-scrollback
+- alpha
